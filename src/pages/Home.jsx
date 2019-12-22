@@ -11,7 +11,7 @@ class Home extends Component {
             <div>
                 <Navbar />
                 <Carousel />
-                <div className="container text-center py-4">
+                <div className="container text-center text-white py-4">
                     <div>
                         <h2>Body Header</h2>
                         <p>Donec ullamcorper nulla non metus auctor fringilla. Vestibulum id ligula porta felis euismod semper. Praesent commodo cursus magna, vel scelerisque nisl consectetur. Fusce dapibus, tellus ac cursus commodo</p>

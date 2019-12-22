@@ -1,5 +1,6 @@
 import React, {Component} from 'react';
 import Navbar from '../components/Navbar.jsx';
+import Featurette from '../components/Featurette.jsx';
 
 class Projects extends Component {
     render() {
@@ -10,6 +11,7 @@ class Projects extends Component {
                     <div>
                         <h2>Projects</h2>
                         <p>Page</p>
+                        <Featurette />
                     </div>
                 </div>
             </div>
